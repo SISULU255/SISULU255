@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SISULU255
-- 👀 I’m interested in Computer Programming 
+- 👀 I’m interested in Artificial intelligence and Computer Programming 
 - 🌱 I’m currently learning Machine Learnig
-- 💞️ I’m looking to collaborate on Machine learing issues and python Programming
+- 💞️ 
 - 📫 How to reach me walterchamy64@gmail.com
 
 <!---
