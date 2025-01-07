@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @ W A l T E R
-- 👀 I’m interested in Artificial intelligence and Computer Programming 
-- 🌱 I’m currently learning Machine Learning
-- 📫 How to reach me walterchamy64@gmail.com or sulemanisisulu02@gmail.com
+# Hi, I’m @W A L T E R 👋
+
+## About Me
+- 👀 I’m passionate about **Artificial Intelligence** and **Machine Learning**.
+- 🔧 I love building projects and solving real-world problems using cutting-edge technologies.
+
+## How to Reach Me
+- 📧 You can reach me via email at:
+  - [walterchamy64@gmail.com](mailto:walterchamy64@gmail.com)
+  - [sulemanisisulu02@gmail.com](mailto:sulemanisisulu02@gmail.com)
 
 <!---
 SISULU255/SISULU255 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
